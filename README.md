@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liruntu2333;
 - 👀 I’m interested in computer graphics and game engineering;
-- 🌱 I’m currently learning C++, C#, OpenGL and Vulkan;
-- 💞️ I’m looking to collaborate on graphics solution for 3A games;
+- 🌱 I’m currently learning C++, D3D11/12, OpenGL and Vulkan;
+- 💞️ I’m looking to collaborate on game development;
 - 📫 How to reach me liruntu2333@gmail.com;
 
 <!---
